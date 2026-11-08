@@ -13,11 +13,8 @@ Les contrats sont développés et testés directement dans Remix IDE, sans frame
 
 À compléter :
 
-- TODO : Membre 1
-- TODO : Membre 2
-- TODO : Membre 3
-- TODO : Membre 4
+- Membre 1: Khaled Ben Hmida
+- Membre 2: Nour Soltani
+- Membre 3: Oussema Haj Khlifa 
+- Membre 4: Zaineb Garbaa
 
-## Cours
-
-<NOM DU COURS>, TEK-UP
